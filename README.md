@@ -634,3 +634,13 @@ Trying to load the model directly from the local cache, if it exists.
 ## 许可证 📝
 
 点击查看 [`LICENSE`](LICENSE) 文件
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=harry0703/MoneyPrinterTurbo&type=Date)](https://star-history.com/#harry0703/MoneyPrinterTurbo&Date)
+
+
+---
+### 🤝 Hall of Kudos & Open-Source Attributions
+See [CREDITS.md](./CREDITS.md) or open [kudos.html](./kudos.html) to view the people, open-source creators, libraries, and AI pair-programming partners recognized across the **Primo IT Tech LLC** ecosystem.
+
