@@ -1,29 +1,33 @@
-# 🤝 Hall of Kudos, Open-Source Credits & Community Attributions
+# 🤝 Hall of Kudos, Upstream Open-Source Credits & License Notice (`MoneyPrinterTurbo`)
 
-**Owner / Engineering Entity:** Primo IT Tech LLC (Jupiter, Florida, USA)  
+**Upstream Open-Source Project:** [`harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo) — Created by **Harry (`@harry0703`)** and community contributors  
+**Upstream License:** **MIT License (`MIT`)** — See [`LICENSE`](./LICENSE) (`Copyright (c) 2024 Harry`)  
+**Portfolio Integration Entity:** Primo IT Tech LLC (Jupiter, Florida, USA)  
 **Interactive Web Page:** Open [`kudos.html`](./kudos.html) or visit `/kudos` on the Universal Portfolio Gateway (`http://localhost:8090/kudos`)
 
-Every application, hardware prototype, and utility in the **Primo IT Tech LLC** ecosystem was built by combining original Florida engineering with open-source libraries, community blueprints, collaborators, and frontier AI pair-programming engines.
+> [!IMPORTANT]
+> **Upstream Open-Source Ownership & License Clarity:**  
+> **MoneyPrinterTurbo** ([`https://github.com/harry0703/MoneyPrinterTurbo`](https://github.com/harry0703/MoneyPrinterTurbo)) is an upstream open-source project created and maintained by **Harry (`@harry0703`)** and its contributors under the **MIT License**. **OpenMontage** ([`https://github.com/calesthio/OpenMontage`](https://github.com/calesthio/OpenMontage)) is an upstream open-source project created by **Calesthio AI Labs (`@calesthio`)** and contributors under the **GNU Affero General Public License v3.0 (GNU AGPL-3.0)**. **Primo IT Tech LLC does NOT claim exclusive proprietary ownership over upstream `MoneyPrinterTurbo` or `OpenMontage` source code**; all upstream code remains governed by its respective upstream open-source license (`MIT` and `GNU AGPL-3.0`).
 
 ---
 
-## 1. People, Collaborators & Upstream Open-Source Creators
+## 1. Upstream Open-Source Creators, People & Collaborators
+
+- **Harry (`@harry0703`) & MoneyPrinterTurbo Contributors (Upstream Creators — MIT License)**  
+  Creator and community contributors (including `mohit-twelvelabs`, `Paulo C. Benetti`, `kapil971390`, `nhatanh2996`, `EvolinkAI`) of **MoneyPrinterTurbo**, powering automated short-form video synthesis and captioning workflows under the **MIT License**.  
+  🔗 [https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
+- **Calesthio AI Labs (`@calesthio`) & OpenMontage Contributors (Upstream Creators — GNU AGPL-3.0)**  
+  Creators and contributors (`Calesthio`, `Daniel Liu`, `Roger Brogan`, `yatchiya`) of **OpenMontage**, providing the open-source agentic video production system, Backlot UI library, and automated montage studio architecture under **GNU AGPL-3.0**.  
+  🔗 [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 - **Keith Franklin (`@nilknarf1972`) — Primo IT Tech LLC**  
-  Founder & Principal Architect across all 34+ credentialing studios, SQL Server BLOB migration engines, hardware prototypes (*Primo IT Tech Grinder™ Proto 02*, *Wingy Dingy Rotary Cooker WD-001*), and the Universal Portfolio Command Center.  
+  Founder & Principal Architect of Primo IT Tech LLC's original Florida credentialing studios, SQL Server BLOB migration engines, hardware prototypes (*Primo IT Tech Grinder™ Proto 02*, *Wingy Dingy Rotary Cooker WD-001*, *DAB POST™ Prototype 001*), and the Universal Portfolio Command Center.  
   🔗 [https://github.com/nilknarf1972](https://github.com/nilknarf1972)
 
 - **Brandon Ducar (`@BrandonDucar`)**  
   Core engineering collaborator and upstream creator across **DreamNet** (*Genesis Protocol* lore & architecture), **ToolGym** (agentic tool-use qualification harness), **Proof Drop (ZABAL)**, **FlockGPScameras**, and **DeBlobisizer-Pro**.  
   🔗 [https://github.com/BrandonDucar](https://github.com/BrandonDucar) | [ToolGym](https://github.com/BrandonDucar/toolgym) | [Proof Drop](https://github.com/BrandonDucar/proof-drop-zabal)
-
-- **Harry (`@harry0703`) & MoneyPrinterTurbo Contributors**  
-  Creator and community contributors (including `mohit-twelvelabs`, `Paulo C. Benetti`, `kapil971390`, `nhatanh2996`, `EvolinkAI`) of **MoneyPrinterTurbo**, powering automated short-form video synthesis and captioning workflows.  
-  🔗 [https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-
-- **Calesthio AI Labs (`@calesthio`) & OpenMontage Contributors**  
-  Creators and contributors (`Calesthio`, `Daniel Liu`, `Roger Brogan`, `yatchiya`) of **OpenMontage**, providing the production backlot library and automated montage studio architecture.  
-  🔗 [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 - **`@justansub` — Android TV Revival Blueprint**  
   Inspiration and ADB optimization blueprint behind **Rea TV (`rea_TV`)**, turning sluggish Android TVs into fast, ad-free custom home screens with reversible package debloating and safety guardrails.  
@@ -32,8 +36,6 @@ Every application, hardware prototype, and utility in the **Primo IT Tech LLC** 
 - **ZABAL Gamez & POIDH Community**  
   Original event and community catalyst for **Proof Drop**—creating portable client-side SHA-256 build receipts and verifiable evidence claims.  
   🔗 [https://proof-drop-zabal.pages.dev](https://proof-drop-zabal.pages.dev)
-
-*(To add specific people, mentors, or partners later: open `kudos.html` in your browser and click **➕ Add Person / Kudos**, or add an entry under `PERMANENT_CUSTOM_KUDOS` in `kudos.html` / this list.)*
 
 ---
 
@@ -57,6 +59,9 @@ Every application, hardware prototype, and utility in the **Primo IT Tech LLC** 
 
 ## 4. Open-Source License Compliance & IP Boundary Notice
 
-1. **Third-Party Open Source:** All third-party open-source repositories, frameworks, and libraries remain the property of their respective authors under their original licenses (MIT, Apache-2.0, BSD, CC).
-2. **Primo IT Tech LLC Proprietary IP:** Crediting open-source libraries, upstream inspirations, collaborators, or AI development tools does not transfer, waive, or dilute **Primo IT Tech LLC’s** exclusive copyright and ownership over its proprietary source code, credential migration schemas, hardware CAD/BOM specifications, or trademarks (© 2026 Primo IT Tech LLC, State of Florida. All Rights Reserved).
-3. **No Implied Endorsement:** Reference to any third-party creator, vendor, platform, or trademark is strictly for attribution and nominative fair use (17 U.S.C. § 1201(f)) and does not imply sponsorship or endorsement by those parties.
+1. **Upstream Open-Source Forks (`MoneyPrinterTurbo` & `OpenMontage`):**
+   - `MoneyPrinterTurbo` is an upstream open-source project by **Harry (`harry0703/MoneyPrinterTurbo`)** licensed under the **MIT License** ([`LICENSE`](./LICENSE)).
+   - `OpenMontage` is an upstream open-source project by **Calesthio AI Labs (`calesthio/OpenMontage`)** licensed under **GNU AGPL-3.0**.
+   - **Primo IT Tech LLC does not claim exclusive proprietary copyright over upstream `MoneyPrinterTurbo` or `OpenMontage` code.**
+2. **Separate Primo IT Tech LLC Applications:** Separate original software, credential migration utilities, and hardware CAD/BOM specifications (`PrimoIT-Grinder`, `Wingy-Dingy`, `DAB POST™ / gaboo`, `CardLayoutStudio`, `PrimotITcdfimporter`, `DeBlobisizer-Pro`, `Primo-IT-Tech-BLOBer`, `ID-Access-Scanner`) remain the copyright of **Primo IT Tech LLC** (State of Florida).
+3. **No Implied Endorsement:** Reference to any upstream open-source author, third-party vendor, platform, or trademark is strictly for truthful attribution and license compliance and does not imply sponsorship or endorsement by those parties.
